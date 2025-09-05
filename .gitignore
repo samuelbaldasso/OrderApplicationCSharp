@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# Configurações locais
+appsettings.Development.json
+
+# Ignorar bin/obj em subprojetos
+Pedidos.Tests/bin/
+Pedidos.Tests/obj/
