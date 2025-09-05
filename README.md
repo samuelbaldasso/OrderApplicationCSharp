@@ -44,7 +44,7 @@ Unit tests are in the `Pedidos.Tests` project:
 
 ```sh
 cd Pedidos.Tests
- dotnet test
+dotnet test
 ```
 
 ## Project Structure
